@@ -1,0 +1,88 @@
+_repo: Life-of-Henriette-Sontag-Countess-de-Rossi.--13-with-Interesting-Sketches-by-Scudo-Hector-Ber__39861
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Scudo, Paul
+    alias: Scudo, Pierre
+    birthdate: 1806
+    deathdate: 1864
+    gutenberg_agent_id: '40265'
+    url: http://www.gutenberg.org/2009/agents/40265
+  - agent_name: Aycard, Marie
+    birthdate: 1794
+    deathdate: 1859
+    gutenberg_agent_id: '40269'
+    url: http://www.gutenberg.org/2009/agents/40269
+  - agent_name: Boerne, Louis
+    gutenberg_agent_id: '40267'
+    url: http://www.gutenberg.org/2009/agents/40267
+  - agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+  - agent_name: Adam, Adolphe
+    aliases:
+    - Adam, Adolphe Charles
+    - Adam, Adolph
+    - Adam, A. (Adolphe)
+    birthdate: &id001 1803
+    deathdate: 1856
+    gutenberg_agent_id: '40268'
+    url: http://www.gutenberg.org/2009/agents/40268
+    wikipedia: http://en.wikipedia.org/wiki/Adolphe_Adam
+  - agent_name: Marguerittes, Julie de
+    alias: De Marguerittes, Julie
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '40270'
+    url: http://www.gutenberg.org/2009/agents/40270
+  - agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, H. (Hector)
+    - Berlioz, Louis Hector
+    birthdate: *id001
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+  - agent_name: Pückler-Muskau, Hermann, Fürst von
+    aliases:
+    - Pückler, Hermann Ludwig Heinrich
+    - Puckler-Muskau, Hermann, Furst von
+    - Pückler-Muskau, Hermann Ludwig Heinrich, Fürst von
+    birthdate: 1785
+    deathdate: 1871
+    gutenberg_agent_id: '40271'
+    url: http://www.gutenberg.org/2009/agents/40271
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_von_P%C3%BCckler-Muskau
+    - https://en.wikipedia.org/wiki/Hermann,_F%C3%BCrst_von_P%C3%BCckler-Muskau
+covers:
+- cover_type: archival
+  image_path: 39861-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sontag, Henriette, 1806-1854'
+- !lcc 'ML'
+title: "Life of Henriette Sontag, Countess de Rossi.\r\nwith Interesting Sketches\
+  \ by Scudo, Hector Berlioz, Louis Boerne, Adolphe Adam, Marie Aycard, Julie de Margueritte,\
+  \ Prince Puckler-Muskau & Theophile Gautier."
+url: http://www.gutenberg.org/ebooks/39861
