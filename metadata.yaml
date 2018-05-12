@@ -33,7 +33,7 @@ contributor:
     - Adam, Adolphe Charles
     - Adam, Adolph
     - Adam, A. (Adolphe)
-    birthdate: &id001 1803
+    birthdate: 1803
     deathdate: 1856
     gutenberg_agent_id: '40268'
     url: http://www.gutenberg.org/2009/agents/40268
@@ -48,7 +48,7 @@ contributor:
     aliases:
     - Berlioz, H. (Hector)
     - Berlioz, Louis Hector
-    birthdate: *id001
+    birthdate: 1803
     deathdate: 1869
     gutenberg_agent_id: '31953'
     url: http://www.gutenberg.org/2009/agents/31953
@@ -71,6 +71,8 @@ covers:
 - cover_type: archival
   image_path: 39861-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39861#Life-of-Henriette-Sontag-Countess-de-Rossi.--13-with-Interesting-Sketches-by-Scudo-Hector-Ber_
 gutenberg_issued: '2012-05-30'
 gutenberg_type: Text
 identifiers:
